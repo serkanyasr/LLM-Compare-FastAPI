@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-google-genai
+langchain_anthropic
+langchain-cohere
+langchain-deepseek
+python-dotenv
+grpcio  
