@@ -18,7 +18,8 @@
 </div>
 <br clear="right">
 
-![image](https://github.com/user-attachments/assets/0253d464-0ec4-49cc-98fe-4e7c1acdfd3e)
+![Ekran görüntüsü 2025-02-09 111241](https://github.com/user-attachments/assets/9916a1d7-0018-4145-8601-d83f5da24747)
+
 
 ## 🔗 Table of Contents
 
